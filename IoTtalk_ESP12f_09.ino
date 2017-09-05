@@ -99,7 +99,7 @@ void handleRoot(){
   temp += "Password:<br>";
   temp += "<input type=\"password\" name=\"Password\" vplaceholder=\"輸入AP密碼\" style=\"width: 150px;\">";
   temp += "<br><br>IoTtalk Server IP<br>";  
-  temp += "<input type=\"serverIP\" name=\"serverIP\" value=\"140.113.199.199\" style=\"width: 150px;\">";
+  temp += "<input type=\"serverIP\" name=\"serverIP\" value=\"XXX.XXX.XXX.XXX\" style=\"width: 150px;\">";
   temp += "<br><br><input type=\"submit\" value=\"Submit\" on_click=\"javascript:alert('TEST');\">";
   temp += "</div></form><br>";
   temp += "<div><input type=\"button\" value=\"開啟\" style=\"width:100px; height:100px; background-color:green\" onclick=\"location.href=\'turn_on_pin\'\"><br><br>";
